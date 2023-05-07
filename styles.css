@@ -1,0 +1,19 @@
+#header{
+  display:flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+#about{
+  display:flex;
+  text: right;
+  justify-content: center;
+  width:50%;
+  margin-left: 500px;
+}
+
+#about p{
+  text-align: center;
+  justify-content: center;
+}
